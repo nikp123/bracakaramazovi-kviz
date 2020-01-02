@@ -41,10 +41,15 @@ Zuerst, wir mussen ein Computer mit QTCreator und git erstellen.
 Nach dem Stellen, schreiben diese Commanden in deine Terminal:
 ``
 cd $ohmeingott
+
 git clone $dieserepo
+
 cd $dieserepo
+
 qmake .
+
 make
+
 make install (wahlweise)
 ``
 
